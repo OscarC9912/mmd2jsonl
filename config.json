@@ -1,0 +1,10 @@
+{
+    "dir": {
+        "source_dir": "/Users/oscar-chen/Desktop/project/cuhk_llm/data_process/dataset",
+        "dest_path": "/Users/oscar-chen/Desktop/project/cuhk_llm/data_process/output.jsonl"
+    },
+
+    "hardware": {
+        "num_work": 3
+    }
+}
